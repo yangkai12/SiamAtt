@@ -12,6 +12,6 @@ If you're using this code in a publication, please cite our paper.
 	author = {Kai Yang, Zhenyu He, Zikun Zhou, Nana Fan},
 	title = {SiamAtt: Siamese attention network for visual tracking},
 	booktitle = {Knowledge-based system},
-	month = {Sept},
-	year = {2018}
+	month = {June},
+	year = {2020}
 	}
