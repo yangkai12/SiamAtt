@@ -1,6 +1,6 @@
 # SiamAtt
 This is an official implemention for “SiamAtt: Siamese attention network for visual tracking”.
-![image]![SiamAtt](https://user-images.githubusercontent.com/25238475/116553768-107a3900-a92d-11eb-93de-61bea43ea4a4.png)
+[SiamAtt](https://user-images.githubusercontent.com/25238475/116553768-107a3900-a92d-11eb-93de-61bea43ea4a4.png)
 
 ## Dependencies
 * Python 3.7
