@@ -36,7 +36,7 @@ References
 [1]SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks. Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
 ## Acknowledgment
-Our anchor-free tracker is based on [PySot](https://github.com/STVIR/pysot). We sincerely thank the authors Bo Li for providing these great works.
+Our SiamAtt tracker is based on [PySot](https://github.com/STVIR/pysot). We sincerely thank the authors Bo Li for providing these great works.
 
 ### Citation
 If you're using this code in a publication, please cite our paper.
