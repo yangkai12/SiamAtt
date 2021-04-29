@@ -41,12 +41,12 @@ Our SiamAtt tracker is based on [PySot](https://github.com/STVIR/pysot). We sinc
 ### Citation
 If you're using this code in a publication, please cite our paper.
 
-	@InProceedings{Siamatt,
-	author = {Kai Yang, Zhenyu He, Zikun Zhou, Nana Fan},
-	title = {SiamAtt: Siamese attention network for visual tracking},
-	booktitle = {Knowledge-based system},
-	volume={203},
-        pages={106079},
-        year={2020},
-        publisher={Elsevier}
-	}
+@article{yang2020siamatt,
+  title={SiamAtt: Siamese attention network for visual tracking},
+  author={Yang, Kai and He, Zhenyu and Zhou, Zikun and Fan, Nana},
+  journal={Knowledge-based systems},
+  volume={203},
+  pages={106079},
+  year={2020},
+  publisher={Elsevier}
+}
